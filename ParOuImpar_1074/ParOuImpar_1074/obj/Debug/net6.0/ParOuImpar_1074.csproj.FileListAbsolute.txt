@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.exe
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\refint\ParOuImpar_1074.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ref\ParOuImpar_1074.dll

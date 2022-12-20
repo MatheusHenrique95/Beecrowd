@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.exe
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\refint\SeisNumerosImpares_1070.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\ref\SeisNumerosImpares_1070.dll

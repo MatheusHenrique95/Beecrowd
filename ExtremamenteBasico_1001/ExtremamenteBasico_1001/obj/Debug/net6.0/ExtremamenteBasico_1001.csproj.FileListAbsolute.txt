@@ -1,0 +1,15 @@
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.exe
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.deps.json
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.runtimeconfig.json
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.pdb
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.csproj.AssemblyReference.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.AssemblyInfoInputs.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.AssemblyInfo.cs
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\refint\ExtremamenteBasico_1001.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.pdb
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.genruntimeconfig.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ref\ExtremamenteBasico_1001.dll

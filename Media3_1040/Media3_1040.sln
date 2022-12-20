@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media3_1040", "Media3_1040\Media3_1040.csproj", "{3ACE8FCD-646C-4F12-A4AC-6D8D7762413C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACE8FCD-646C-4F12-A4AC-6D8D7762413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACE8FCD-646C-4F12-A4AC-6D8D7762413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACE8FCD-646C-4F12-A4AC-6D8D7762413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACE8FCD-646C-4F12-A4AC-6D8D7762413C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE3D022-5381-4C61-8E47-FBB9601236B1}
+	EndGlobalSection
+EndGlobal

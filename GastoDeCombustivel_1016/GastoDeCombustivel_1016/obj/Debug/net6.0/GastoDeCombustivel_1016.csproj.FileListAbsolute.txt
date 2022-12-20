@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\bin\Debug\net6.0\GastoDeCombustivel_1016.exe
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\bin\Debug\net6.0\GastoDeCombustivel_1016.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\bin\Debug\net6.0\GastoDeCombustivel_1016.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\bin\Debug\net6.0\GastoDeCombustivel_1016.dll
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\bin\Debug\net6.0\GastoDeCombustivel_1016.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.dll
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\refint\GastoDeCombustivel_1016.dll
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\GastoDeCombustivel_1016.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\GastoDeCombustivel_1016\GastoDeCombustivel_1016\obj\Debug\net6.0\ref\GastoDeCombustivel_1016.dll

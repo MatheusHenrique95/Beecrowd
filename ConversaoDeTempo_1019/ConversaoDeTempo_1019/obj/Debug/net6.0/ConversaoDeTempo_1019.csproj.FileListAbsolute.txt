@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.exe
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\refint\ConversaoDeTempo_1019.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ref\ConversaoDeTempo_1019.dll

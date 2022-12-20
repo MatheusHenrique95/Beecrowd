@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\bin\Debug\net6.0\QuadradoDePares_1073.exe
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\bin\Debug\net6.0\QuadradoDePares_1073.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\bin\Debug\net6.0\QuadradoDePares_1073.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\bin\Debug\net6.0\QuadradoDePares_1073.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\bin\Debug\net6.0\QuadradoDePares_1073.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\refint\QuadradoDePares_1073.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\QuadradoDePares_1073.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoDePares_1073\QuadradoDePares_1073\obj\Debug\net6.0\ref\QuadradoDePares_1073.dll

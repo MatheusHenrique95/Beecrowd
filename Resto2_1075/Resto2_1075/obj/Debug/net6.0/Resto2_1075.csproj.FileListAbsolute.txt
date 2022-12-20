@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.exe
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\refint\Resto2_1075.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Resto2_1075\Resto2_1075\obj\Debug\net6.0\ref\Resto2_1075.dll

@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.exe
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\refint\CalculoSimples_1010.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\ref\CalculoSimples_1010.dll

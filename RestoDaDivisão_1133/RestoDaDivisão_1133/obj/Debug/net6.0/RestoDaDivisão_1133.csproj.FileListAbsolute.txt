@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\bin\Debug\net6.0\RestoDaDivisão_1133.exe
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\bin\Debug\net6.0\RestoDaDivisão_1133.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\bin\Debug\net6.0\RestoDaDivisão_1133.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\bin\Debug\net6.0\RestoDaDivisão_1133.dll
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\bin\Debug\net6.0\RestoDaDivisão_1133.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.dll
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\refint\RestoDaDivisão_1133.dll
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\RestoDaDivisão_1133.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\RestoDaDivisão_1133\RestoDaDivisão_1133\obj\Debug\net6.0\ref\RestoDaDivisão_1133.dll

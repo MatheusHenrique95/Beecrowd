@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\bin\Debug\net6.0\TempoDeJogoComMinutos_1047.exe
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\bin\Debug\net6.0\TempoDeJogoComMinutos_1047.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\bin\Debug\net6.0\TempoDeJogoComMinutos_1047.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\bin\Debug\net6.0\TempoDeJogoComMinutos_1047.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\bin\Debug\net6.0\TempoDeJogoComMinutos_1047.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\refint\TempoDeJogoComMinutos_1047.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\TempoDeJogoComMinutos_1047.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDeJogoComMinutos_1047\TempoDeJogoComMinutos_1047\obj\Debug\net6.0\ref\TempoDeJogoComMinutos_1047.dll

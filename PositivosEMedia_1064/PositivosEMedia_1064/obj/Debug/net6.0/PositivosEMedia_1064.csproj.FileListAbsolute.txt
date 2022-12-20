@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.exe
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.dll
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.dll
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\refint\PositivosEMedia_1064.dll
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\PositivosEMedia_1064\PositivosEMedia_1064\obj\Debug\net6.0\ref\PositivosEMedia_1064.dll

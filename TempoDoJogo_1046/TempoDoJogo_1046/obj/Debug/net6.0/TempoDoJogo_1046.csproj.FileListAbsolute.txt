@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\bin\Debug\net6.0\TempoDoJogo_1046.exe
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\bin\Debug\net6.0\TempoDoJogo_1046.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\bin\Debug\net6.0\TempoDoJogo_1046.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\bin\Debug\net6.0\TempoDoJogo_1046.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\bin\Debug\net6.0\TempoDoJogo_1046.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\refint\TempoDoJogo_1046.dll
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\TempoDoJogo_1046.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\TempoDoJogo_1046\TempoDoJogo_1046\obj\Debug\net6.0\ref\TempoDoJogo_1046.dll

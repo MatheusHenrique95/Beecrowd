@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.exe
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\refint\ParesEntreCincoNumeros_1065.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ParesEntreCincoNumeros_1065\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ref\ParesEntreCincoNumeros_1065.dll

@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\bin\Debug\net6.0\Lanche_1038.exe
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\bin\Debug\net6.0\Lanche_1038.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\bin\Debug\net6.0\Lanche_1038.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\bin\Debug\net6.0\Lanche_1038.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\bin\Debug\net6.0\Lanche_1038.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\refint\Lanche_1038.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\Lanche_1038.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Lanche_1038\Lanche_1038\obj\Debug\net6.0\ref\Lanche_1038.dll

@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\bin\Debug\net6.0\Diferença_1007.exe
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\bin\Debug\net6.0\Diferença_1007.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\bin\Debug\net6.0\Diferença_1007.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\bin\Debug\net6.0\Diferença_1007.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\bin\Debug\net6.0\Diferença_1007.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\refint\Diferença_1007.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\Diferença_1007.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Diferença_1007\Diferença_1007\obj\Debug\net6.0\ref\Diferença_1007.dll

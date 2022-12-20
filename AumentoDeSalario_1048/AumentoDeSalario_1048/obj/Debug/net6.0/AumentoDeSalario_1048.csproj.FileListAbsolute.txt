@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.exe
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.dll
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.dll
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\refint\AumentoDeSalario_1048.dll
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\ref\AumentoDeSalario_1048.dll

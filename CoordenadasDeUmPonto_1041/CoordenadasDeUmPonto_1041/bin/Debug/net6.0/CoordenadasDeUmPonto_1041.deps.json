@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoordenadasDeUmPonto_1041/1.0.0": {
+        "runtime": {
+          "CoordenadasDeUmPonto_1041.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoordenadasDeUmPonto_1041/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.exe
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.dll
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.dll
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\refint\NumerosPares_1059.dll
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\ref\NumerosPares_1059.dll

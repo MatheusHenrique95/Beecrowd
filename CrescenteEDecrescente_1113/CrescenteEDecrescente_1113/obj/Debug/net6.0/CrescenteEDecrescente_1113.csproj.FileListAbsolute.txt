@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\bin\Debug\net6.0\CrescenteEDecrescente_1113.exe
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\bin\Debug\net6.0\CrescenteEDecrescente_1113.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\bin\Debug\net6.0\CrescenteEDecrescente_1113.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\bin\Debug\net6.0\CrescenteEDecrescente_1113.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\bin\Debug\net6.0\CrescenteEDecrescente_1113.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\refint\CrescenteEDecrescente_1113.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\CrescenteEDecrescente_1113.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CrescenteEDecrescente_1113\CrescenteEDecrescente_1113\obj\Debug\net6.0\ref\CrescenteEDecrescente_1113.dll

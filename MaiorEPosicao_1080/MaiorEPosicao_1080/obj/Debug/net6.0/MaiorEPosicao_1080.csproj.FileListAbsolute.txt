@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.exe
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.dll
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.dll
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\refint\MaiorEPosicao_1080.dll
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\ref\MaiorEPosicao_1080.dll

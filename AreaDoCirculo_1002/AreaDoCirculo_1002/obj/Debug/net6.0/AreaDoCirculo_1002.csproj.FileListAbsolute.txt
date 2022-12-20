@@ -1,0 +1,15 @@
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.csproj.AssemblyReference.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.AssemblyInfoInputs.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.AssemblyInfo.cs
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\bin\Debug\net6.0\AreaDoCirculo_1002.exe
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\bin\Debug\net6.0\AreaDoCirculo_1002.deps.json
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\bin\Debug\net6.0\AreaDoCirculo_1002.runtimeconfig.json
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\bin\Debug\net6.0\AreaDoCirculo_1002.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\bin\Debug\net6.0\AreaDoCirculo_1002.pdb
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\refint\AreaDoCirculo_1002.dll
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.pdb
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\AreaDoCirculo_1002.genruntimeconfig.cache
+D:\Sharp Coders\Primeiro Projeto\Beecrowd\AreaDoCirculo_1002\AreaDoCirculo_1002\obj\Debug\net6.0\ref\AreaDoCirculo_1002.dll

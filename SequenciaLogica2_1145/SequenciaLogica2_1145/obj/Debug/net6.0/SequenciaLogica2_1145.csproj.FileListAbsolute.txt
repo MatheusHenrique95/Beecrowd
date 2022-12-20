@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\bin\Debug\net6.0\SequenciaLogica2_1145.exe
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\bin\Debug\net6.0\SequenciaLogica2_1145.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\bin\Debug\net6.0\SequenciaLogica2_1145.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\bin\Debug\net6.0\SequenciaLogica2_1145.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\bin\Debug\net6.0\SequenciaLogica2_1145.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\refint\SequenciaLogica2_1145.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\SequenciaLogica2_1145.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaLogica2_1145\SequenciaLogica2_1145\obj\Debug\net6.0\ref\SequenciaLogica2_1145.dll

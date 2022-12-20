@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\bin\Debug\net6.0\CoordenadasDeUmPonto_1041.exe
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\bin\Debug\net6.0\CoordenadasDeUmPonto_1041.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\bin\Debug\net6.0\CoordenadasDeUmPonto_1041.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\bin\Debug\net6.0\CoordenadasDeUmPonto_1041.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\bin\Debug\net6.0\CoordenadasDeUmPonto_1041.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\refint\CoordenadasDeUmPonto_1041.dll
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\CoordenadasDeUmPonto_1041.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\CoordenadasDeUmPonto_1041\CoordenadasDeUmPonto_1041\obj\Debug\net6.0\ref\CoordenadasDeUmPonto_1041.dll

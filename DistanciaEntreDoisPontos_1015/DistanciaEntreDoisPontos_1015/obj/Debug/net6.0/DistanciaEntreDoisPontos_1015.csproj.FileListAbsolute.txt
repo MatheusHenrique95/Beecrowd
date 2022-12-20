@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.exe
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.dll
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.dll
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\refint\DistanciaEntreDoisPontos_1015.dll
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\DistanciaEntreDoisPontos_1015\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\ref\DistanciaEntreDoisPontos_1015.dll

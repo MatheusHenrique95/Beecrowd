@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\bin\Debug\net6.0\SequenciaDeNumerosESoma_1101.exe
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\bin\Debug\net6.0\SequenciaDeNumerosESoma_1101.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\bin\Debug\net6.0\SequenciaDeNumerosESoma_1101.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\bin\Debug\net6.0\SequenciaDeNumerosESoma_1101.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\bin\Debug\net6.0\SequenciaDeNumerosESoma_1101.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\refint\SequenciaDeNumerosESoma_1101.dll
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\SequenciaDeNumerosESoma_1101.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\SequenciaDeNumerosESoma_1101\SequenciaDeNumerosESoma_1101\obj\Debug\net6.0\ref\SequenciaDeNumerosESoma_1101.dll

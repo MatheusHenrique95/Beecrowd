@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\bin\Debug\net6.0\ValidaçãoDaNota_1117.exe
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\bin\Debug\net6.0\ValidaçãoDaNota_1117.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\bin\Debug\net6.0\ValidaçãoDaNota_1117.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\bin\Debug\net6.0\ValidaçãoDaNota_1117.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\bin\Debug\net6.0\ValidaçãoDaNota_1117.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\refint\ValidaçãoDaNota_1117.dll
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ValidaçãoDaNota_1117.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\ValidaçãoDaNota_1117\ValidaçãoDaNota_1117\obj\Debug\net6.0\ref\ValidaçãoDaNota_1117.dll

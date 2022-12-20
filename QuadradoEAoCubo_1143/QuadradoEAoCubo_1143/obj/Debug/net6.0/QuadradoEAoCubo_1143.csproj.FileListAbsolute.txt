@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\bin\Debug\net6.0\QuadradoEAoCubo_1143.exe
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\bin\Debug\net6.0\QuadradoEAoCubo_1143.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\bin\Debug\net6.0\QuadradoEAoCubo_1143.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\bin\Debug\net6.0\QuadradoEAoCubo_1143.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\bin\Debug\net6.0\QuadradoEAoCubo_1143.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\refint\QuadradoEAoCubo_1143.dll
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\QuadradoEAoCubo_1143.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\QuadradoEAoCubo_1143\QuadradoEAoCubo_1143\obj\Debug\net6.0\ref\QuadradoEAoCubo_1143.dll

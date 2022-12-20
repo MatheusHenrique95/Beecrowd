@@ -1,0 +1,15 @@
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.exe
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.deps.json
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.runtimeconfig.json
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.csproj.AssemblyReference.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.AssemblyInfoInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.AssemblyInfo.cs
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.csproj.CoreCompileInputs.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\refint\Media2_1006.dll
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.pdb
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.genruntimeconfig.cache
+D:\Sharp Coders\Exercícios\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\ref\Media2_1006.dll
