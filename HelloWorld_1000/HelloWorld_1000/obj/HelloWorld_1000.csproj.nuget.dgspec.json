@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sharp Coders\\Primeiro Projeto\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj": {}
+    "D:\\Sharp Coders\\Exercícios\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj": {}
   },
   "projects": {
-    "D:\\Sharp Coders\\Primeiro Projeto\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj": {
+    "D:\\Sharp Coders\\Exercícios\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sharp Coders\\Primeiro Projeto\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj",
+        "projectUniqueName": "D:\\Sharp Coders\\Exercícios\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj",
         "projectName": "HelloWorld_1000",
-        "projectPath": "D:\\Sharp Coders\\Primeiro Projeto\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj",
+        "projectPath": "D:\\Sharp Coders\\Exercícios\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\HelloWorld_1000.csproj",
         "packagesPath": "C:\\Users\\mathH\\.nuget\\packages\\",
-        "outputPath": "D:\\Sharp Coders\\Primeiro Projeto\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\obj\\",
+        "outputPath": "D:\\Sharp Coders\\Exercícios\\Beecrowd\\HelloWorld_1000\\HelloWorld_1000\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
